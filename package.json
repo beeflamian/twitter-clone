@@ -1,0 +1,32 @@
+{
+  "name": "twitter-clone",
+  "version": "1.0.0",
+  "description": "react.js demo",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beeflamian/twitter-clone.git"
+  },
+  "author": "Alan Si",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beeflamian/twitter-clone/issues"
+  },
+  "homepage": "https://github.com/beeflamian/twitter-clone#readme",
+  "dependencies": {
+    "babel-loader": "^6.2.0",
+    "webpack": "^1.12.9"
+  },
+  "devDependencies": {
+    "babel-core": "^6.3.26",
+    "babel-loader": "^6.2.1",
+    "babel-preset-es2015": "^6.3.13",
+    "babel-preset-react": "^6.3.13"
+  }
+}
